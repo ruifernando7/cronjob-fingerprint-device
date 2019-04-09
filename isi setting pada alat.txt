@@ -1,0 +1,19 @@
+Pada menu Jaringan
+1. Mode: Lokal
+2. No. Mesin: 1
+3. Ethernet 192.168.000.205
+4. No Port: 5005
+5. Pw Jaringan: 0
+6. IP Server
+7. Port Server: 5005
+8. Server Req: Tdk
+
+
+Pada menu Ethernet
+1. Aktifkan: Ya
+2. DHCP: Tdk
+3. MAC: CA.87.5F.61.44.2B
+4. Alamat IP: 192.168.000.205
+5. Netmask: 255.255.255.000
+6. Gateway: 192.168.000.001
+7. DNSServer: 192.168.000.001

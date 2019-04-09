@@ -1,0 +1,5 @@
+1. Aplikasi FService.exe harus selalu berjalan dalam Run As Adminstrator. Letak FService ada pada folder instalisasi.
+2. Harus setting device.ini pada folder instalisasi. Isinya telah tersedia pada file isi device ini pada directory C.txt
+3. Harus setting jaringan pada mesin fingerprint. Isinya telah seperti pada file isi setting pada alat.txt
+4. Setting DB pada file db.php 
+5. Buat scheduler dengan file scheduler.bat

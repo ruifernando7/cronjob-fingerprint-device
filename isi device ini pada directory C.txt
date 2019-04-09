@@ -1,0 +1,7 @@
+[Mesin Revo FF 153 BNC]
+sn=66595018220294
+aktivasi=2D51F-6FC7-9FF46-4603-8B9DE-74B7-A511A::3-8
+password=0
+number=1
+ip_address=192.168.0.205
+ethernet_port=5005
